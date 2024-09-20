@@ -167,13 +167,4 @@ if __name__ == '__main__':
     plt.legend(loc="lower left")
     plt.grid()
     plt.show()
-    # print(arr)
-    # start = time.time()
-    # print("The {}th smallest element of A is {}".format(k,quickselect(arr, 0, len(arr)-1, 5)))
-    # end = time.time()
-    # dt = (end - start)* 1e9 # nanoseconds
-    # print(dt)
-    # print(sorted(arr)[5])
-    # print(sorted(arr)[k])
-
-    # print(arr)
+    
