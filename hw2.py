@@ -1,6 +1,5 @@
-#!.project/bin/
+# Author: Alex Zongo
 # we are implementing the quick select deterministic median of medians algorithm: -> finding the kth smallest element of an array A.
-
 #1. divide the array of length n into n/5 chunks of 5 elements
 #2. sort the chunks and find the medians
 #3. find the median of medians
